@@ -1,0 +1,15 @@
+This file will consist all the API - Based Data which will be linked via the main page. 
+
+Table of API 
+
+Name of Provider                  Data Provided                Live/Delayed               oAuth Required 
+
+Trading View                      Multiple form of             Delayed by 5 mins          Yes 
+(Via Rest API)                    data provided   
+
+Trading View                     Charts, Individual             Delayed                    NO 
+(via Widgets)                    stock data, Charting
+                                 Solutions   
+
+LightWeight Charts               Converts CSV data to            Its a Library              NO 
+                                 charts                                  
